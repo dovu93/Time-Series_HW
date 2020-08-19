@@ -1,6 +1,6 @@
 # Time-Series_HW
-Homework assignment for Time Series Analysis for the FinTech bootcamp
-![](unit-10-readme-photo.png)
+Homework assignment for the Time Series Analysis portion for the FinTech bootcamp
+![](Assignment/Resources/unit-10-readme-photo.png)
 
 ### Hypothesis:
 
@@ -26,9 +26,9 @@ Using the ARMA, ARIMA, Garch and a Linear Regression model we came to the conclu
 
 These notebooks can be found below. 
 
-    - [Time Series Analysis Notebook](Assignment/time_series_analysis.ipynb)
+    [Time Series Analysis Notebook](/Assignment/time_series_analysis.ipynb)
 
-    - [Linear Regression Notebook](Assignment/regression_analysis.ipynb)
+    [Linear Regression Notebook](/Assignment/regression_analysis.ipynb)
 
 
 ### Conclusion:
