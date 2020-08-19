@@ -26,9 +26,9 @@ Using the ARMA, ARIMA, Garch and a Linear Regression model we came to the conclu
 
 These notebooks can be found below. 
 
-    [Time Series Analysis Notebook](/Assignment/time_series_analysis.ipynb)
+1. [Time Series Analysis Notebook](/Assignment/time_series_analysis.ipynb)
 
-    [Linear Regression Notebook](/Assignment/regression_analysis.ipynb)
+2. [Linear Regression Notebook](/Assignment/regression_analysis.ipynb)
 
 
 ### Conclusion:
